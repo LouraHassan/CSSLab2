@@ -1,0 +1,89 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.title{
+    position: relative;
+    bottom: 450px;
+    left: 400px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5em;
+}
+.soupHeadar{
+    border: 5px solid rgb(7, 31, 60);
+    max-width: inherit;
+  max-height: inherit;
+  height: inherit;
+  width: inherit;
+   
+}
+
+.container{
+    border: 1px solid gray;
+width: 100%;
+height: 100vh;
+}
+
+.soupimg{
+   width: 25vw;
+   position: relative;
+   bottom: 300px;
+   left: 550px;
+}
+
+.p1{
+    position: relative;
+    bottom: 100px;
+    left: 360px;
+    font-size: 1.5em;
+    text-align: left;
+    color: rgb(67, 67, 67);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 60vw;
+}
+
+.p3{
+    position: relative;
+    left: 350px;
+    font-size: 1.5em;
+    text-align: left;
+    color: rgb(67, 67, 67);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 60vw;
+}
+.SoupInfo{
+    position: relative;
+    left: 550px;
+    width: 20vw;
+}
+
+.cookingInfo{
+    position: relative;
+    left: 550px;
+    width: 20vw;
+}
+.linediv{
+    width: 100%;
+    align-content: center;
+}
+
+.line{
+    position: relative;
+left: 150px;
+    height: 2px;
+    width: 80%;
+    background-color: rgb(25, 25, 65);
+}
+
+.center-div{
+    justify-content: center;
+    width: 100%;
+}
+h2{
+    color: rgb(67, 67, 67);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
